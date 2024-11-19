@@ -1,18 +1,4 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "type": "phone",
-      "name": "Xiaomi Mi A2 Lite",
-      "info": "The Mi A2 Lite is not your regular budget smartphone - it has a high-res notched screen with slim bezels, a dual-camera on its back, a very large battery, and runs on the latest vanilla Android OS. The notched screen is probably the highlight feature of the Mi A2 Lite and while controversial, it still adds for some modern looks."
-    },
-    {
-      "id": 2,
-      "type": "phone",
-      "name": "Samsung Galaxy S9",
-      "info": "It's true what they say - you don't fix what's not broken. And that's what Samsung did for the Galaxy S9 - it didn't change what was already great, it just tweaked specs wherever possible. And it has worked out just fine for them."
-    }
-  ]
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
