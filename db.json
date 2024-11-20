@@ -4,310 +4,284 @@
       "id": 1,
       "os": "android",
       "brand": "xiaomi",
-      "attributes": {
-        "name": "Xiaomi Mi A2 Lite",
-        "slug": "xiaomi-mi-a2-lite",
-        "stock": 49,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/xiaomi-mi-a2-lite.jpg"
-        ],
-        "isNew": false,
-        "rating": 4.05,
-        "reviews": 17
-      }
+      "name": "Xiaomi Mi A2 Lite",
+      "slug": "xiaomi-mi-a2-lite",
+      "stock": 49,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/xiaomi-mi-a2-lite.jpg"
+      ],
+      "isNew": false,
+      "rating": 4.05,
+      "reviews": 17
     },
     {
       "id": 2,
       "os": "android",
       "brand": "samsung",
-      "attributes": {
-        "name": "Samsung Galaxy S9",
-        "slug": "samsung-galaxy-s9",
-        "stock": 0,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/samsung-galaxy-s9.jpg"
-        ],
-        "isNew": true,
-        "rating": 4.79,
-        "reviews": 147
-      }
+      "name": "Samsung Galaxy S9",
+      "slug": "samsung-galaxy-s9",
+      "stock": 0,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/samsung-galaxy-s9.jpg"
+      ],
+      "isNew": true,
+      "rating": 4.79,
+      "reviews": 147
     },
     {
       "id": 3,
       "os": "android",
       "brand": "oppo",
-      "attributes": {
-        "name": "Oppo F7",
-        "slug": "oppo-f7",
-        "stock": 24,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/oppo-f7.jpg"
-        ],
-        "isNew": 0,
-        "rating": 3.86,
-        "reviews": 223
-      }
+      "name": "Oppo F7",
+      "slug": "oppo-f7",
+      "stock": 24,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/oppo-f7.jpg"
+      ],
+      "isNew": 0,
+      "rating": 3.86,
+      "reviews": 223
     },
     {
       "id": 4,
       "os": "android",
       "brand": "samsung",
-      "attributes": {
-        "name": "Samsung Galaxy S8",
-        "slug": "samsung-galaxy-s8",
-        "stock": 0,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/samsung-galaxy-s8.jpg"
-        ],
-        "isNew": true,
-        "rating": 3.15,
-        "reviews": 895
-      }
+      "name": "Samsung Galaxy S8",
+      "slug": "samsung-galaxy-s8",
+      "stock": 0,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/samsung-galaxy-s8.jpg"
+      ],
+      "isNew": true,
+      "rating": 3.15,
+      "reviews": 895
     },
     {
       "id": 5,
       "os": "android",
       "brand": "xiaomi",
-      "attributes": {
-        "name": "Xiaomi Pocophone F1",
-        "slug": "xiaomi-pocophone-f1",
-        "stock": 9,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/xiaomi-pocophone-f1.jpg"
-        ],
-        "isNew": false,
-        "rating": 3.26,
-        "reviews": 824
-      }
+      "name": "Xiaomi Pocophone F1",
+      "slug": "xiaomi-pocophone-f1",
+      "stock": 9,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/xiaomi-pocophone-f1.jpg"
+      ],
+      "isNew": false,
+      "rating": 3.26,
+      "reviews": 824
     },
     {
       "id": 6,
       "os": "ios",
       "brand": "apple",
-      "attributes": {
-        "name": "Apple iPhone X 64GB",
-        "slug": "apple-iphone-x-64gb",
-        "stock": 19,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/apple-iphone-x.jpg"
-        ],
-        "isNew": false,
-        "rating": 4.61,
-        "reviews": 25
-      }
+      "name": "Apple iPhone X 64GB",
+      "slug": "apple-iphone-x-64gb",
+      "stock": 19,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/apple-iphone-x.jpg"
+      ],
+      "isNew": false,
+      "rating": 4.61,
+      "reviews": 25
     },
     {
       "id": 7,
       "os": "ios",
       "brand": "apple",
-      "attributes": {
-        "name": "Apple iPhone 11 Pro Max",
-        "slug": "apple-iphone-11-pro-max",
-        "stock": 4,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/apple-iphone-pro-11.jpg"
-        ],
-        "isNew": true,
-        "rating": 3.66,
-        "reviews": 465
-      }
+      "name": "Apple iPhone 11 Pro Max",
+      "slug": "apple-iphone-11-pro-max",
+      "stock": 4,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/apple-iphone-pro-11.jpg"
+      ],
+      "isNew": true,
+      "rating": 3.66,
+      "reviews": 465
     },
     {
       "id": 8,
       "os": "android",
       "brand": "xiaomi",
-      "attributes": {
-        "name": "Realme X3 SuperZoom",
-        "slug": "realme-x3-superzoom",
-        "stock": 1,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/realme-x3-superzoom-2.jpg"
-        ],
-        "isNew": false,
-        "rating": 3.25,
-        "reviews": 478
-      }
+      "name": "Realme X3 SuperZoom",
+      "slug": "realme-x3-superzoom",
+      "stock": 1,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/realme-x3-superzoom-2.jpg"
+      ],
+      "isNew": false,
+      "rating": 3.25,
+      "reviews": 478
     },
     {
       "id": 9,
       "os": "android",
       "brand": "asus",
-      "attributes": {
-        "name": "Asus ROG Phone II ZS660KL",
-        "slug": "asus-rog-phone-ii-zs660kl",
-        "stock": 15,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/asus-rog-phone2-1.jpg"
-        ],
-        "isNew": true,
-        "rating": 4.38,
-        "reviews": 10
-      }
+      "name": "Asus ROG Phone II ZS660KL",
+      "slug": "asus-rog-phone-ii-zs660kl",
+      "stock": 15,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/asus-rog-phone2-1.jpg"
+      ],
+      "isNew": true,
+      "rating": 4.38,
+      "reviews": 10
     },
     {
       "id": 10,
       "os": "android",
       "brand": "huawei",
-      "attributes": {
-        "name": "Huawei P40 Lite",
-        "slug": "huawei-p40-lite",
-        "stock": 24,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/huawei-p40-lite-1.jpg"
-        ],
-        "isNew": true,
-        "rating": 3.14,
-        "reviews": 576
-      }
+      "name": "Huawei P40 Lite",
+      "slug": "huawei-p40-lite",
+      "stock": 24,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/huawei-p40-lite-1.jpg"
+      ],
+      "isNew": true,
+      "rating": 3.14,
+      "reviews": 576
     },
     {
       "id": 11,
       "os": "android",
       "brand": "honor",
-      "attributes": {
-        "name": "Honor 10X Lite",
-        "slug": "honor-10x-lite",
-        "stock": 0,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/honor-10x-lite.jpg"
-        ],
-        "isNew": false,
-        "rating": 3.75,
-        "reviews": 824
-      }
+      "name": "Honor 10X Lite",
+      "slug": "honor-10x-lite",
+      "stock": 0,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/honor-10x-lite.jpg"
+      ],
+      "isNew": false,
+      "rating": 3.75,
+      "reviews": 824
     },
     {
       "id": 12,
       "os": "android",
       "brand": "acer",
-      "attributes": {
-        "name": "Acer Liquid Z6 Plus",
-        "slug": "acer-liquid-z6-plus",
-        "stock": 0,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/acer-liquid-z6-plus.jpg"
-        ],
-        "isNew": false,
-        "rating": 3.47,
-        "reviews": 487
-      }
+      "name": "Acer Liquid Z6 Plus",
+      "slug": "acer-liquid-z6-plus",
+      "stock": 0,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/acer-liquid-z6-plus.jpg"
+      ],
+      "isNew": false,
+      "rating": 3.47,
+      "reviews": 487
     },
     {
       "id": 13,
       "os": "android",
       "brand": "google",
-      "attributes": {
-        "name": "Google Pixel 3",
-        "slug": "google-pixel-3",
-        "stock": 42,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/google-pixel-3.jpg"
-        ],
-        "isNew": true,
-        "rating": 3.24,
-        "reviews": 323
-      }
+      "name": "Google Pixel 3",
+      "slug": "google-pixel-3",
+      "stock": 42,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/google-pixel-3.jpg"
+      ],
+      "isNew": true,
+      "rating": 3.24,
+      "reviews": 323
     },
     {
       "id": 14,
       "os": "android",
       "brand": "google",
-      "attributes": {
-        "name": "Google Pixel 4",
-        "slug": "google-pixel-4",
-        "stock": 25,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/google-pixel-4.jpg"
-        ],
-        "isNew": true,
-        "rating": 3.69,
-        "reviews": 468
-      }
+      "name": "Google Pixel 4",
+      "slug": "google-pixel-4",
+      "stock": 25,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/google-pixel-4.jpg"
+      ],
+      "isNew": true,
+      "rating": 3.69,
+      "reviews": 468
     },
     {
       "id": 15,
       "os": "android",
       "brand": "google",
-      "attributes": {
-        "name": "Google Pixel 5",
-        "slug": "google-pixel-5-5g",
-        "stock": 2,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/google-pixel-5-5g.jpg"
-        ],
-        "isNew": true,
-        "rating": 4.81,
-        "reviews": 209
-      }
+      "name": "Google Pixel 5",
+      "slug": "google-pixel-5-5g",
+      "stock": 2,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/google-pixel-5-5g.jpg"
+      ],
+      "isNew": true,
+      "rating": 4.81,
+      "reviews": 209
     },
     {
       "id": 16,
       "os": "ios",
       "brand": "apple",
-      "attributes": {
-        "name": "Apple iPhone 12 Pro Max",
-        "slug": "apple-iphone-12-pro-max",
-        "stock": 63,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/apple-iphone-12-pro-max.jpg"
-        ],
-        "isNew": false,
-        "rating": 4.25,
-        "reviews": 648
-      }
+      "name": "Apple iPhone 12 Pro Max",
+      "slug": "apple-iphone-12-pro-max",
+      "stock": 63,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/apple-iphone-12-pro-max.jpg"
+      ],
+      "isNew": false,
+      "rating": 4.25,
+      "reviews": 648
     },
     {
       "id": 17,
       "os": "android",
       "brand": "meizu",
-      "attributes": {
-        "name": "Meizu Pro 7 Plus",
-        "slug": "meizu-pro-7-plus",
-        "stock": 40,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/meizu-pro-7-plus.jpg"
-        ],
-        "isNew": false,
-        "rating": 4.83,
-        "reviews": 481
-      }
+      "name": "Meizu Pro 7 Plus",
+      "slug": "meizu-pro-7-plus",
+      "stock": 40,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/meizu-pro-7-plus.jpg"
+      ],
+      "isNew": false,
+      "rating": 4.83,
+      "reviews": 481
     },
     {
       "id": 18,
       "os": "android",
       "brand": "sony",
-      "attributes": {
-        "name": "Sony Xperia 1 II",
-        "slug": "sony-xperia-1-II",
-        "stock": 4,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/sony-xperia-1-II.jpg"
-        ],
-        "isNew": false,
-        "rating": 4.81,
-        "reviews": 6
-      }
+      "name": "Sony Xperia 1 II",
+      "slug": "sony-xperia-1-II",
+      "stock": 4,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/sony-xperia-1-II.jpg"
+      ],
+      "isNew": false,
+      "rating": 4.81,
+      "reviews": 6
     },
     {
       "id": "27",
       "os": "blackberry",
       "brand": "blackberry",
-      "attributes": {
-        "name": "BlackBerry KEY2 LE",
-        "slug": "blackberry-key2-le",
-        "stock": 0,
-        "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/blackberry-key2-le.jpg"
-        ],
-        "isNew": false,
-        "rating": 4.24,
-        "reviews": 302
-      }
+      "name": "BlackBerry KEY2 LE",
+      "slug": "blackberry-key2-le",
+      "stock": 0,
+      "images": [
+        "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/blackberry-key2-le.jpg"
+      ],
+      "isNew": false,
+      "rating": 4.24,
+      "reviews": 302
     }
   ],
   "os": [
-    "android",
-    "ios",
-    "blackberry"
+    {
+      "id": 1,
+      "name": "Android",
+      "slug": "android"
+    },
+    {
+      "id": 1,
+      "name": "IOS",
+      "slug": "ios"
+    },
+    {
+      "id": 1,
+      "name": "Blackbery OS",
+      "slug": "blackberry"
+    }
   ]
 }
