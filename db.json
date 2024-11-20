@@ -5,7 +5,6 @@
       "os": "android",
       "attributes": {
         "name": "Xiaomi Mi A2 Lite",
-        "info": "The Mi A2 Lite is not your regular budget smartphone - it has a high-res notched screen with slim bezels, a dual-camera on its back, a very large battery, and runs on the latest vanilla Android OS.",
         "slug": "xiaomi-mi-a2-lite",
         "stock": 49,
         "images": [
@@ -21,7 +20,6 @@
       "os": "android",
       "attributes": {
         "name": "Samsung Galaxy S9",
-        "info": "It's true what they say - you don't fix what's not broken. And that's what Samsung did for the Galaxy S9 - it didn't change what was already great, it just tweaked specs wherever possible.",
         "slug": "samsung-galaxy-s9",
         "stock": 0,
         "images": [
@@ -37,7 +35,6 @@
       "os": "android",
       "attributes": {
         "name": "Oppo F7",
-        "info": "Selfies are an inevitable part of our lives and they have prevailed over the skeptics into a bright, if not predominant future.",
         "slug": "oppo-f7",
         "stock": 24,
         "images": [
@@ -53,7 +50,6 @@
       "os": "android",
       "attributes": {
         "name": "Samsung Galaxy S8",
-        "info": "When 5 inches is the de-facto standard for a compact Android handset, yet you want to prove that more is always better, what do you do? Well, it depends on the definition of more.",
         "slug": "samsung-galaxy-s8",
         "stock": 0,
         "images": [
@@ -69,7 +65,6 @@
       "os": "android",
       "attributes": {
         "name": "Xiaomi Pocophone F1",
-        "info": "Xiaomi's announcements have been relatively predictable so far, but the introduction of a new Poco sub-brand was a surprising move.",
         "slug": "xiaomi-pocophone-f1",
         "stock": 9,
         "images": [
@@ -85,7 +80,6 @@
       "os": "ios",
       "attributes": {
         "name": "Apple iPhone X 64GB",
-        "info": "The anniversary iPhone is here. The iPhone X. Or the iPhone 10. The name is as confusing as the product itself is game-changing.",
         "slug": "apple-iphone-x-64gb",
         "stock": 19,
         "images": [
@@ -101,7 +95,6 @@
       "os": "ios",
       "attributes": {
         "name": "Apple iPhone 11 Pro Max",
-        "info": "It's September and the well-oiled Apple marketing machine is in full swing yet again. Apple's iPhone event this fall brought us the iPhone 11 trio.",
         "slug": "apple-iphone-11-pro-max",
         "stock": 4,
         "images": [
@@ -117,7 +110,6 @@
       "os": "android",
       "attributes": {
         "name": "Realme X3 SuperZoom",
-        "info": "Realme often has us wondering what's what in its portfolio and where new models fit in the existing lineup.",
         "slug": "realme-x3-superzoom",
         "stock": 1,
         "images": [
@@ -133,7 +125,6 @@
       "os": "android",
       "attributes": {
         "name": "Asus ROG Phone II ZS660KL",
-        "info": "Asus and more specifically the Republic of Gamers division has always been pretty straight-forward about its smartphone goals and priorities.",
         "slug": "asus-rog-phone-ii-zs660kl",
         "stock": 15,
         "images": [
@@ -149,7 +140,6 @@
       "os": "android",
       "attributes": {
         "name": "Huawei P40 Lite",
-        "info": "Huawei has never been loud with its Lite series and the P40 Lite is not getting a special treatment either.",
         "slug": "huawei-p40-lite",
         "stock": 24,
         "images": [
@@ -165,8 +155,6 @@
       "os": "android",
       "attributes": {
         "name": "Honor 10X Lite",
-        "info": "It's a fast-paced industry, and six months sounds like a long time for a phone to go without a successor.",
-        "points": 42000,
         "slug": "honor-10x-lite",
         "stock": 0,
         "images": [
@@ -182,7 +170,6 @@
       "os": "android",
       "attributes": {
         "name": "Acer Liquid Z6 Plus",
-        "info": "While Sony unveiled high-end smartphones and Huawei focused on midrangers, Acer had the low-cost options.",
         "slug": "acer-liquid-z6-plus",
         "stock": 0,
         "images": [
@@ -198,7 +185,6 @@
       "os": "android",
       "attributes": {
         "name": "Google Pixel 3",
-        "info": "Bringing the small Pixel into the now with a tall display and less wasted space, we have this year's Google Pixel 3.",
         "slug": "google-pixel-3",
         "stock": 42,
         "images": [
@@ -211,10 +197,39 @@
     },
     {
       "id": 14,
+      "os": "android",
+      "attributes": {
+        "name": "Google Pixel 4",
+        "slug": "google-pixel-4",
+        "stock": 25,
+        "images": [
+          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/google-pixel-4.jpg"
+        ],
+        "isNew": true,
+        "rating": 3.69,
+        "reviews": 468
+      }
+    },
+    {
+      "id": 15,
+      "os": "android",
+      "attributes": {
+        "name": "Google Pixel 5",
+        "slug": "google-pixel-5-5g",
+        "stock": 2,
+        "images": [
+          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/google-pixel-5-5g.jpg"
+        ],
+        "isNew": true,
+        "rating": 4.81,
+        "reviews": 209
+      }
+    },
+    {
+      "id": 16,
       "os": "ios",
       "attributes": {
         "name": "Apple iPhone 12 Pro Max",
-        "info": "There are four new models in Series 12, ranging from the 5.4\" mini to the 6.7\" Pro Max.",
         "slug": "apple-iphone-12-pro-max",
         "stock": 63,
         "images": [
@@ -226,20 +241,54 @@
       }
     },
     {
-      "id": 15,
+      "id": 17,
       "os": "android",
       "attributes": {
-        "name": "Google Pixel 5",
-        "info": "This year, Google has taken a drastically different approach with the Pixel lineup.",
-        "slug": "google-pixel-5-5g",
-        "stock": 2,
+        "name": "Meizu Pro 7 Plus",
+        "slug": "meizu-pro-7-plus",
+        "stock": 40,
         "images": [
-          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/google-pixel-5-5g.jpg"
+          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/meizu-pro-7-plus.jpg"
         ],
-        "isNew": true,
+        "isNew": false,
+        "rating": 4.83,
+        "reviews": 481
+      }
+    },
+    {
+      "id": 18,
+      "os": "android",
+      "attributes": {
+        "name": "Sony Xperia 1 II",
+        "slug": "sony-xperia-1-II",
+        "stock": 4,
+        "images": [
+          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/sony-xperia-1-II.jpg"
+        ],
+        "isNew": false,
         "rating": 4.81,
-        "reviews": 209
+        "reviews": 6
+      }
+    },
+    {
+      "id": "27",
+      "os": "blackberry",
+      "attributes": {
+        "name": "BlackBerry KEY2 LE",
+        "slug": "blackberry-key2-le",
+        "stock": 0,
+        "images": [
+          "https://res.cloudinary.com/devaraeko/image/upload/v1732013475/images/products/blackberry-key2-le.jpg"
+        ],
+        "isNew": false,
+        "rating": 4.24,
+        "reviews": 302
       }
     }
+  ],
+  "os": [
+    "android",
+    "ios",
+    "blackberry"
   ]
 }
