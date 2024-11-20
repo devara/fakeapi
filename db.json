@@ -3,6 +3,7 @@
     {
       "id": 1,
       "os": "android",
+      "brand": "xiaomi",
       "attributes": {
         "name": "Xiaomi Mi A2 Lite",
         "slug": "xiaomi-mi-a2-lite",
@@ -18,6 +19,7 @@
     {
       "id": 2,
       "os": "android",
+      "brand": "samsung",
       "attributes": {
         "name": "Samsung Galaxy S9",
         "slug": "samsung-galaxy-s9",
@@ -33,6 +35,7 @@
     {
       "id": 3,
       "os": "android",
+      "brand": "oppo",
       "attributes": {
         "name": "Oppo F7",
         "slug": "oppo-f7",
@@ -48,6 +51,7 @@
     {
       "id": 4,
       "os": "android",
+      "brand": "samsung",
       "attributes": {
         "name": "Samsung Galaxy S8",
         "slug": "samsung-galaxy-s8",
@@ -63,6 +67,7 @@
     {
       "id": 5,
       "os": "android",
+      "brand": "xiaomi",
       "attributes": {
         "name": "Xiaomi Pocophone F1",
         "slug": "xiaomi-pocophone-f1",
@@ -78,6 +83,7 @@
     {
       "id": 6,
       "os": "ios",
+      "brand": "apple",
       "attributes": {
         "name": "Apple iPhone X 64GB",
         "slug": "apple-iphone-x-64gb",
@@ -93,6 +99,7 @@
     {
       "id": 7,
       "os": "ios",
+      "brand": "apple",
       "attributes": {
         "name": "Apple iPhone 11 Pro Max",
         "slug": "apple-iphone-11-pro-max",
@@ -108,6 +115,7 @@
     {
       "id": 8,
       "os": "android",
+      "brand": "xiaomi",
       "attributes": {
         "name": "Realme X3 SuperZoom",
         "slug": "realme-x3-superzoom",
@@ -123,6 +131,7 @@
     {
       "id": 9,
       "os": "android",
+      "brand": "asus",
       "attributes": {
         "name": "Asus ROG Phone II ZS660KL",
         "slug": "asus-rog-phone-ii-zs660kl",
@@ -138,6 +147,7 @@
     {
       "id": 10,
       "os": "android",
+      "brand": "huawei",
       "attributes": {
         "name": "Huawei P40 Lite",
         "slug": "huawei-p40-lite",
@@ -153,6 +163,7 @@
     {
       "id": 11,
       "os": "android",
+      "brand": "honor",
       "attributes": {
         "name": "Honor 10X Lite",
         "slug": "honor-10x-lite",
@@ -168,6 +179,7 @@
     {
       "id": 12,
       "os": "android",
+      "brand": "acer",
       "attributes": {
         "name": "Acer Liquid Z6 Plus",
         "slug": "acer-liquid-z6-plus",
@@ -183,6 +195,7 @@
     {
       "id": 13,
       "os": "android",
+      "brand": "google",
       "attributes": {
         "name": "Google Pixel 3",
         "slug": "google-pixel-3",
@@ -198,6 +211,7 @@
     {
       "id": 14,
       "os": "android",
+      "brand": "google",
       "attributes": {
         "name": "Google Pixel 4",
         "slug": "google-pixel-4",
@@ -213,6 +227,7 @@
     {
       "id": 15,
       "os": "android",
+      "brand": "google",
       "attributes": {
         "name": "Google Pixel 5",
         "slug": "google-pixel-5-5g",
@@ -228,6 +243,7 @@
     {
       "id": 16,
       "os": "ios",
+      "brand": "apple",
       "attributes": {
         "name": "Apple iPhone 12 Pro Max",
         "slug": "apple-iphone-12-pro-max",
@@ -243,6 +259,7 @@
     {
       "id": 17,
       "os": "android",
+      "brand": "meizu",
       "attributes": {
         "name": "Meizu Pro 7 Plus",
         "slug": "meizu-pro-7-plus",
@@ -258,6 +275,7 @@
     {
       "id": 18,
       "os": "android",
+      "brand": "sony",
       "attributes": {
         "name": "Sony Xperia 1 II",
         "slug": "sony-xperia-1-II",
@@ -273,6 +291,7 @@
     {
       "id": "27",
       "os": "blackberry",
+      "brand": "blackberry",
       "attributes": {
         "name": "BlackBerry KEY2 LE",
         "slug": "blackberry-key2-le",
